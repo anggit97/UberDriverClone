@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100315670405",
+    "firebase_url": "https://cllon-541d5.firebaseio.com",
+    "project_id": "cllon-541d5",
+    "storage_bucket": "cllon-541d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100315670405:android:388e7ddf89a75e72",
+        "android_client_info": {
+          "package_name": "com.anggitprayogo.uberdriverclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100315670405-munofohne3nqbc1f9g2hlgt2gaji9js9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggitprayogo.uberdriverclone",
+            "certificate_hash": "72207235c398a563ae35aa74af5211ed5709e6f8"
+          }
+        },
+        {
+          "client_id": "100315670405-580c8vp1vkv3gcn2tgoc1863knaucm4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEcaooHllLAuabcYWP7XvlljU7jnWH-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100315670405-580c8vp1vkv3gcn2tgoc1863knaucm4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
